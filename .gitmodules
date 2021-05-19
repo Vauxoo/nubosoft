@@ -18,3 +18,7 @@
 	path = server-tools
 	url = git@github.com:Vauxoo/server-tools.git
 	branch = 14.0
+[submodule "l10n-spain"]
+	path = l10n-spain
+	url = git@github.com:OCA/l10n-spain.git
+	branch = 14.0
