@@ -18,3 +18,11 @@
 	path = server-tools
 	url = git@github.com:Vauxoo/server-tools.git
 	branch = 14.0
+[submodule "server-ux"]
+	path = server-ux
+	url = git@github.com:OCA/server-ux.git
+	branch = 14.0
+[submodule "account-financial-reporting"]
+	path = account-financial-reporting
+	url = git@github.com:OCA/account-financial-reporting.git
+	branch = 14.0
