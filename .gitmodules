@@ -1,32 +1,36 @@
 [submodule "nubosoft"]
 	path = nubosoft
 	url = git@git.vauxoo.com:vauxoo/nubosoft.git
-	branch = 14.0
+	branch = 15.0
 [submodule "mexico"]
 	path = mexico
 	url = git@git.vauxoo.com:vauxoo/mexico.git
-	branch = 14.0
+	branch = 15.0
 [submodule "mexico-document"]
 	path = mexico-document
 	url = git@git.vauxoo.com:vauxoo/mexico-document.git
-	branch = 14.0
+	branch = 15.0
 [submodule "edi-document"]
 	path = edi-document
 	url = git@git.vauxoo.com:vauxoo/edi-document.git
-	branch = 14.0
+	branch = 15.0
 [submodule "server-tools"]
 	path = server-tools
 	url = git@github.com:Vauxoo/server-tools.git
-	branch = 14.0
+	branch = 15.0
 [submodule "l10n-spain"]
 	path = l10n-spain
-	url = git@github.com:OCA/l10n-spain.git
-	branch = 14.0
+	url = git@github.com:Vauxoo/l10n-spain.git
+	branch = 15.0
 [submodule "server-ux"]
 	path = server-ux
-	url = git@github.com:OCA/server-ux.git
-	branch = 14.0
+	url = git@github.com:Vauxoo/server-ux.git
+	branch = 15.0
 [submodule "account-financial-reporting"]
 	path = account-financial-reporting
-	url = git@github.com:OCA/account-financial-reporting.git
-	branch = 14.0
+	url = git@github.com:Vauxoo/account-financial-reporting.git
+	branch = 15.0
+[submodule "sh-tools"]
+	path = sh-tools
+	url = git@git.vauxoo.com:vauxoo/sh-tools.git
+	branch = 15.0
